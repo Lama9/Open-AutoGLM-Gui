@@ -7,6 +7,8 @@ __pycache__/
 build/
 develop-eggs/
 dist/
+*.spec
+gui_config.json
 downloads/
 eggs/
 .eggs/
@@ -19,6 +21,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+.specstory/
 
 # Virtual environments
 venv/
